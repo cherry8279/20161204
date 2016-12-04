@@ -1,0 +1,14 @@
+{
+  "name": "node1204",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cherry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
